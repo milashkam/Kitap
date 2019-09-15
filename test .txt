@@ -2,3 +2,4 @@ kitap java
 kitap selenium
 kitap agile
 kitap scrum
+kitap okumak lazim
